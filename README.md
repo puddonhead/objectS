@@ -1,4 +1,4 @@
-# "objectS" Cross Platform Object Store protocol and utilities
+# "objectS" - Cross Platform Object Store protocol and utilities
 Goal for this project is to create a language agnostic object data format.
 
 The object data (fields/members) are written in nested xml structure:
